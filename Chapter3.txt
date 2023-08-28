@@ -10,9 +10,5 @@ covid.
 
 Use git checkout Chapter3.txt to revert back to the file that only contains everything above this.
 
-Text to be deleted:
-a;lsdkfjal;kj
-asdf;kljad;lsdkfjal
-aljfdklfaj
-lkjcalksdj
-covid.
+
+
