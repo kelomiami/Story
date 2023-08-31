@@ -1,0 +1,5 @@
+# A list of files that will be ignored
+# The text files: F1, F2, F3 will be committed to the remote repository
+
+.DS_Store
+secrets.txt
