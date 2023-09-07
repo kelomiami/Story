@@ -1,0 +1,5 @@
+You are amazing. You are striving in areas of the mind, the body, and the spirit. You will make your dreams come true and even more.
+
+
+This is a test of using Git Branches. This should appear in the new branch called branch_example_1
+and not in the main branch.

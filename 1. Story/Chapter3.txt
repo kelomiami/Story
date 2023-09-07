@@ -1,0 +1,23 @@
+This is the third chapter.
+
+Text to be deleted:
+a;lsdkfjal;kj
+asdf;kljad;lsdkfjal
+aljfdklfaj
+lkjcalksdj
+covid.
+
+
+Use git checkout Chapter3.txt to revert back to the file that only contains everything above this.
+
+
+Text to be deleted:
+a;lsdkfjal;kj
+asdf;kljad;lsdkfjal
+aljfdklfaj
+lkjcalksdj
+covid.
+
+
+This is a test of using Git Branches. This should appear in the new branch called branch_example_1
+and not in the main branch.
