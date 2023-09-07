@@ -1,0 +1,5 @@
+This is a test.
+
+
+This is a test of using Git Branches. This should appear in the new branch called branch_example_1
+and not in the main branch.
